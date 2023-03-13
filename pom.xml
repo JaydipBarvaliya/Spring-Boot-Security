@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.javabrains</groupId>
-    <artifactId>Spring-Boot-Security</artifactId>
+    <artifactId>Spring-Boot-Security-Simple</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Spring-Boot-Security</name>
-    <description>Spring-Boot-Security</description>
+    <name>Spring-Boot-Security-Simple</name>
+    <description>Spring-Boot-Security-Simple</description>
     <properties>
         <java.version>19</java.version>
     </properties>
